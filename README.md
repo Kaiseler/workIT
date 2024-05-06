@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Workit landing page
 
 ![Design preview for the Workit landing page coding challenge](./preview.jpg)
@@ -88,3 +89,6 @@ The more specific you are with your questions the more likely it is that another
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
 **Have fun building!** 🚀
+=======
+# workIT
+>>>>>>> 3bb8dd8ec4d6b99f51598cf3eddc04e339b33ed0
