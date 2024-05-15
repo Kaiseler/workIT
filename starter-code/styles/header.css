@@ -34,7 +34,7 @@ header {
     width: 140px;
     height: 35px;
     border-bottom: 3px solid var(--verdeAgua);
-    font-family: "Manrope";
+    font-family: 'Manrope', sans-serif;
     font-size: 18px;
     font-style: bold;
     line-height: 32px;
@@ -51,7 +51,7 @@ header #logo-principal {
 }
 
 .title-learn-button {
-    width: 635px;
+    
     height: 160;
     margin: 135px auto 0  ;
     display: flex;
@@ -59,26 +59,29 @@ header #logo-principal {
     align-items: center;
     /* background-color: yellow; */
     position: relative;
+    width: 100%;
 }
 
 
 .title-learn-button h1 {
-    font-family: "Fraunces";
+    font-family: 'Fraunces', serif;
     font-weight: 600;
     font-size: 80px;
     line-height: 80px;
     text-align: center;
     color: #fff;
     position: relative;
-    
+    /* border: 2px solid red; */
+    width: 44.376%;
 }
 
 .line {
     border-bottom: 4px solid var(--verdeAgua);
     position: absolute;
     bottom: 69%;
-    left: 37%;
-    width: 41%;
+    left: 44.236%;
+    width: 18.2%;
+    height: 3px;
 }
 
 .button-learn-more {
@@ -96,14 +99,15 @@ header #logo-principal {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .telemovel {
-    width: 46.6%;
-    height: 441px; 
-    margin-top: 57px;
+    width: 52.848%;
+    height: 440px; 
+    margin-top: 61px;
     /* border: 2px solid red; */
-    position: absolute;
-    left: 29.8%;
+    margin-left: 25.07%;
+    margin-right: 21.6%;
 }
 
 .telemovel img {
