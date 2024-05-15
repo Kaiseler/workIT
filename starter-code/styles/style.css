@@ -35,7 +35,8 @@ body {
     height: 308px;
     margin: 255px 0 281px 0;
     margin-left: 11.46%;
-     border: 2px solid black;
+    padding: 4px;
+     /* border: 2px solid black; */
     
 }
 
@@ -45,7 +46,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 30%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     white-space: wrap;
 }
 
@@ -146,6 +147,13 @@ section {
     font-weight: bold;
     font-family: 'Manrope';
     border: none;
+}
+
+.presentation button:active{
+    background-color: var(--darkPurple);
+    border: solid var(--verdeAgua);
+    color: var(--verdeAgua);
+    cursor: pointer;
 }
 
 #dark-logo {
